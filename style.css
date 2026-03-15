@@ -113,7 +113,7 @@ header {
   flex-direction: column;
   gap: 3rem;
   color: #fff;
-  background-image: url(/images/stock-photo-pizza-ingredients-background\).jpg);
+  background-image: url(images/stock-photo-pizza-ingredients-background\).jpg);
   background-size: cover;
   background-position: center;
  background-repeat: no-repeat;
